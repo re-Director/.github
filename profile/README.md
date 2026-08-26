@@ -10,4 +10,4 @@ Connect any domain and set up custom redirects in seconds. re:Director gives you
 [![Docs](https://img.shields.io/badge/📚-Documentation-green?style=flat-square)](https://re-director.github.io/docs/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jensknipper/re-director?style=flat-square&logo=docker)](https://hub.docker.com/r/jensknipper/re-director)
 
-<img src="https://raw.githubusercontent.com/re-director/.github/refs/heads/main/assets/demo.gif" alt="re:Director Demo" height="512" />
+<img src="https://raw.githubusercontent.com/re-director/.github/refs/heads/main/assets/demo.gif" alt="re:Director Demo" height="512" style="border: 1px solid black;"/>
